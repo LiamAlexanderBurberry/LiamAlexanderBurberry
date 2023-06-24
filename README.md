@@ -13,17 +13,10 @@ Skills: C / C# / SQL / Bash
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LiamAlexanderBurberry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/liam-burberry-575822255//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/liam.burberrygahm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/liam.burberry/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LiamAlexanderBurberry)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamAlexanderBurberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamAlexanderBurberry&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LiamAlexanderBurberry)  
-
-![GitHub metrics](https://metrics.lecoq.io/LiamAlexanderBurberry)  
-
-![Profile views](https://gpvc.arturio.dev/LiamAlexanderBurberry)  
 
 
 
@@ -32,4 +25,5 @@ Skills: C / C# / SQL / Bash
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamAlexanderBurberry)](https://github.com/anuraghazra/github-readme-stats)
+
+
