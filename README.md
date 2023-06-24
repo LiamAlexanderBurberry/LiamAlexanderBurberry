@@ -23,8 +23,6 @@ Skills: C / C# / SQL / Bash
 
 ![GitHub metrics](https://metrics.lecoq.io/LiamAlexanderBurberry)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=LiamAlexanderBurberry)  
-
 ![Profile views](https://gpvc.arturio.dev/LiamAlexanderBurberry)  
 
 
