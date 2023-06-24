@@ -6,7 +6,7 @@ I Like many aspects of the Software Development industry and look forward to enh
 
 Skills: C / C# / SQL / Bash
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
