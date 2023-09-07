@@ -2,7 +2,7 @@
 #### 20 year old student studying Computer Science at University
 Studying Computer Science at Mälardalens University. My name is Liam Burberry, I'm currently studying Computer Science at Mälardalens Univeristy. I Like many aspects of the Software Development industry and look forward to enhancing my knowldege as i study. My favourite parts in the industry are Frontend Design and Artificial Intelligence. During my time in school I have covered languages such as: SQL, C, C# and Bash, more to come.
 
-Skills: C / C# / MYSQL / Bash
+Skills: C / C++ / C# / MYSQL / Bash
 
 - 🔭 I’m currently working on My own game 
 - 🌱 I’m currently learning Machine Learning, Web & Mobile Applications 
